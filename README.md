@@ -6,17 +6,18 @@
 
 ## Visualization
 
-### Long-range demo
+### Long-range demo (gif)
+Arranged from left to right are images depicting surround-view input images, the proposed predictions and the ground truth（GT）.
 
-#### Normal daytime
+#### 1) Normal daytime
 
 ![Long-range - Animated gif demo](https://github.com/pupu-chenyanyan/DMPB-SAD/blob/main/tinywow_01%2B03_73178796%20(1).gif)
 
-#### Rainy and low-illuminate conditions
+#### 2) Rainy and low-illuminate conditions
 
 ![Long-range - Animated gif demo](https://github.com/pupu-chenyanyan/DMPB-SAD/blob/main/tinywow_02_73179789%20(1).gif)
 
-  #### Complex and blurred conditions
+#### 3) Complex and blurred conditions
 ![Long-range - Animated gif demo](https://github.com/pupu-chenyanyan/DMPB-SAD/blob/main/tinywow_04-2_73179564%20(1).gif)
 
 
