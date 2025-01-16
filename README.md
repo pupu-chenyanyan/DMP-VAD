@@ -8,7 +8,7 @@
 
 ### Long-range demo
 
-![Long-range - Animated gif demo](https://github.com/pupu-chenyanyan/DMPB-SAD/blob/main/tinywow_01%2B03_73178268.gif)
+![Long-range - Animated gif demo](https://github.com/pupu-chenyanyan/DMPB-SAD/blob/main/tinywow_01%2B03_73178268%20(1).gif)
 
 
 
