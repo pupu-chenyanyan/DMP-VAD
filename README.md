@@ -21,15 +21,10 @@
 
 
 
-% ### Long-range coverage
+<!-- ### Long-range coverage
 ![图片2](https://github.com/user-attachments/assets/51fb6760-1425-4f0d-8324-46fe94de5f8a)
-
-
-
-
 ### Short-range coverage
-![图片3](https://github.com/user-attachments/assets/62e01948-1fa3-4962-b928-a41713851071)
-
+![图片3](https://github.com/user-attachments/assets/62e01948-1fa3-4962-b928-a41713851071) -->
 
 
 ### Acknowledgement
